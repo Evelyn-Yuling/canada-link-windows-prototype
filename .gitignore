@@ -1,0 +1,10 @@
+# Never publish generated connection data or credentials.
+*.SECRET.json
+*.pem
+.env
+.env.*
+config.json
+*.log
+state/
+server/
+client/
